@@ -1,1 +1,2 @@
 thisis a story.
+this is line2 in the story.
